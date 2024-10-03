@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Electro1207
-- 👀 I’m interested in DataScience, Ethical Hacking
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Web Development, Ethical Hacking
+- 🌱 I’m currently learning React.js
+- 👨‍💻 Languages/Skills Learnt: Python, MySQL, JS, HTML, CSS 
 - 📫 How to reach me https://www.linkedin.com/in/aum-kulkarni-134253888456000000000000000/
 
 
