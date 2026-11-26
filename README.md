@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Electro1207
-- 👀 I’m interested in Web Development, Ethical Hacking, AI/ML
-- 🌱 I’m currently learning ML
-- 👨‍💻 Languages/Skills Learnt: Python, MySQL, JS, HTML, CSS, React JS 
+- 👀 I’m interested in everything technology
+- 👨‍💻 Languages/Skills Learnt: Python, MySQL, JS, HTML, CSS, React JS, AI/ML, Generative AI, Vector Databases 
 - 📫 How to reach me https://www.linkedin.com/in/aum-kulkarni-134253888456000000000000000/
+- Portfolio: aumkulkarni.pages.dev
 
 
 <!---
