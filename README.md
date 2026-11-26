@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything technology
 - 👨‍💻 Languages/Skills Learnt: Python, MySQL, JS, HTML, CSS, React JS, AI/ML, Generative AI, Vector Databases 
 - 📫 How to reach me https://www.linkedin.com/in/aum-kulkarni-134253888456000000000000000/
-- Portfolio: aumkulkarni.pages.dev
+- Portfolio: https://aumkulkarni.pages.dev
 
 
 <!---
